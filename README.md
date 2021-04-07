@@ -1,4 +1,4 @@
-# IIT-bombay-internship
+# IIT-bombay-internship problem
 The code for both problem statements have been written in python using pycharm and opencv2.You will also need to have the face cascade
 and eye cascade xml files and the oscar selfie code you are running in the same folder.You also need to have the image you
 are toying with in the same folder.I have attached both the xml files.
